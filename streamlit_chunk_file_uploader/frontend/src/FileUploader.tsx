@@ -222,7 +222,7 @@ class FileUploader extends StreamlitComponentBase<State> {
               <small style={{
                 color: theme?.textColor,
                 opacity: 0.6,
-              }}>File size limit: unlimited</small>
+              }}>File size limit: 200Mo</small>
             </div>
           </div>
           <button type="button" style={browse_btn_style}
