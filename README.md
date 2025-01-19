@@ -1,3 +1,12 @@
+# Here is a forked version of the great library, streamlit-chunk-file-update by GracefulTabby
+It solves the 32 MB file limit of Cloud Run by GCP.
+
+https://github.com/GracefulTabby/streamlit-chunk-file-uploader
+
+# Changes made
+
+I just changed the title of the snippet that used to show "unlimited" for the max size of files to a more reasonable size of 200MB. 
+
 # streamlit-chunk-file-uploader
 
 [![image](https://img.shields.io/pypi/v/streamlit-chunk-file-uploader.svg)](https://pypi.python.org/pypi/streamlit-chunk-file-uploader)  
