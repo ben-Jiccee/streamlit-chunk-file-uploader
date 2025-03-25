@@ -6,7 +6,7 @@ https://github.com/GracefulTabby/streamlit-chunk-file-uploader
 
 # Changes made
 
-I just changed the title of the snippet that used to show "unlimited" for the max size of files to a more reasonable size of 200MB. 
+I just changed the title of the snippet that used to show "unlimited" for the max size of files to a more reasonable size of 200MB. Cheers
 
 # streamlit-chunk-file-uploader
 
