@@ -1,5 +1,6 @@
 # Here is a forked version of the great library, streamlit-chunk-file-update by GracefulTabby
 It solves the 32 MB file limit of Cloud Run by GCP.
+JICCEE Adjusted it to limit the size of the files that can be sent there. 
 
 https://github.com/GracefulTabby/streamlit-chunk-file-uploader
 
